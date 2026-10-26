@@ -1,0 +1,8 @@
+# Bu proje hicbir dis bagimlilik gerektirmez.
+# Ama eger isterseniz 'cay' paketini zihninizde kurabilirsiniz.
+# pip install varolus-krizi  # bu paket yok, sakın denemeyin
+
+# DAMGA: Requirements onaylandi, gercekten bos.
+# Imza: Kayyum Grok
+# Tarih: 27 Ekim 2026
+# Isim: Bagimsizlik Savascisi
