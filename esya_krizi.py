@@ -8,7 +8,8 @@ import time
 import base64
 
 # Gizli mesaj (decode etmek için: print(base64.b64decode(gizli).decode()))
-gizli = "YnVyYXNpIGJpcmthaXIgZGUgaXNpbSBhbWEgc2F5aW5hIGJpbGUga2F5YmV0IGV0bWVmeWVuIGtpbXNlIGRpbmllbWVmei4="  # Burası ciddi değil, şaka.
+# Saklanmış siyasi şaka: ciddiye alma, çay önce gelir.
+gizli = "RGVtb2tyYXNpIGVuIGl5aSBzaXN0ZW1kaXIgYW1hIGNheSBkZW1sZW5tZWRlbiBoaWNiaXIgc2V5IHRhcnRpc2lsbWF6LiBCdSBnaXpsaSBzaXlhc2kgbWVzYWpkaXIsIGNpZGRpeWUgYWxtYXlpbi4="  # Demokrasi... çay...
 
 esyalar = [
     "çay bardağı",
